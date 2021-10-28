@@ -1,4 +1,6 @@
-### About Mypal
+### About
+
+My is the web browser. It supports Windows XP.
 
 Mypal is a current and maintained Windows XP web browser. Mypal is based on Moonchild Productions' Pale Moon code, which itself was forked from Mozilla's FireFox code several years ago, but is also maintained and kept current.
 
