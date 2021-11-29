@@ -1,3 +1,9 @@
+### About the repositoriy owner
+My skills: C++, HTML, CSS, UX. I really need some people who know file structure.
+
+### How to contribute
+As I say, I don't know file structure. So, we need somebody who will tell where is code for tasks and how break nothing.
+Fell free to make pull request.
 ### What is MyPal
 
 MyPal is the web browser to surf the Internet. It supports Windows XP.
