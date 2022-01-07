@@ -33,5 +33,13 @@ Support is provided exclusively on GitHub. Please be patient with your support r
 
 Please do not request support from Moonchild Productions or in Pale Moon forums. Mypal is an independent project and support is provided solely on GitHub by me.
 
-You may donate but only via [DASH](https://www.dash.org/): XetK1TDBqVAyqnTJUd65g9Pi1HcQEtFF2c</br>
-Point on #284 to make me know.
+### Что делает JeanPaulLucien?
+Проверяет код, который каждый может внести через Pull Request
+
+### Как помочь
+1. Скачать последнюю версию Mypal 29.3.0 или 29.4.0 и начать пользоваться.
+2. Предлагать идеи по улучшению.
+3. Предлагать изменения в код.
+
+### Поддержка пользователей.
+Вся поддержка пользователей только здесь.
