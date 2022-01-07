@@ -4,9 +4,10 @@ My skills: C++, HTML, CSS, UX. I really need some people who know file structure
 ### How to contribute
 As I say, I don't know file structure. So, we need somebody who will tell where is code for tasks and how break nothing.
 Fell free to make pull request.
-### What is MyPal
 
-MyPal is the web browser to surf the Internet. It supports Windows XP.
+### MyPal
+EN: MyPal is the web browser to surf the Internet. It supports Windows XP.
+RU: MyPal - это браузер с поддержкой Windows XP.
 
 Mypal is a current and maintained Windows XP web browser. Mypal is based on Moonchild Productions' Pale Moon code, which itself was forked from Mozilla's FireFox code several years ago, but is also maintained and kept current.
 
