@@ -1,6 +1,6 @@
 ### About the repositoriy owner
-My skills: C++, HTML, CSS, UX. I really need some people who know file structure.
-
+I do not develop that. I'm ready to accept pull request and check your issues.
+ 
 ### How to contribute
 As I say, I don't know file structure. So, we need somebody who will tell where is code for tasks and how break nothing.
 Fell free to make pull request.
